@@ -2,7 +2,7 @@
 /*
 	Name: Demo_Singleton.cpp
 	Copyright: 2018
-	Author: nguyenthoanglinh@dtu.edu.vn
+	Author: nguyenthoanglinh@dtu.edu.vn  aka eddydn@gmail.com
 	Date: 07/11/18 13:58
 	Description: Cai dat design pattern Singleton
 */
